@@ -1,1 +1,5 @@
-# test
+```dot
+digraph{
+  A -> B
+}
+```
